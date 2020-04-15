@@ -1,0 +1,1087 @@
+fileFormatVersion: 2
+guid: 0de5ac9cff6f7dc4996f0a9a3ab2df06
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8173312151114725367
+    second: crashy-foe-atlas_0
+  - first:
+      213: -3927743010336435091
+    second: crashy-foe-atlas_1
+  - first:
+      213: -2874376972651213425
+    second: crashy-foe-atlas_2
+  - first:
+      213: -7635684659739190361
+    second: crashy-foe-atlas_3
+  - first:
+      213: 1240364669240376140
+    second: crashy-foe-atlas_0
+  - first:
+      213: 2100482645306466304
+    second: crashy-foe-atlas_1
+  - first:
+      213: -1002004766219689708
+    second: crashy-foe-atlas_2
+  - first:
+      213: 8350542611469138743
+    second: crashy-foe-atlas_3
+  - first:
+      213: 2057954925592457436
+    second: crashy-foe-atlas_4
+  - first:
+      213: 6954496521316897336
+    second: crashy-foe-atlas_4
+  - first:
+      213: 7487672863275136629
+    second: crashy-foe-atlas_5
+  - first:
+      213: -804942808729442581
+    second: crashy-foe-atlas_6
+  - first:
+      213: 4803726753958324659
+    second: crashy-foe-atlas_5
+  - first:
+      213: 1792975544266624723
+    second: crashy-foe-atlas_6
+  - first:
+      213: -2102280029626648179
+    second: crashy-foe-atlas_7
+  - first:
+      213: -8312408284318055782
+    second: crashy-foe-atlas_8
+  - first:
+      213: 2479350376690291829
+    second: crashy-foe-atlas_9
+  - first:
+      213: -3975733911296989560
+    second: crashy-foe-atlas_10
+  - first:
+      213: 1155630952634013323
+    second: crashy-foe-atlas_11
+  - first:
+      213: -6417145116776637195
+    second: crashy-foe-atlas_12
+  - first:
+      213: -2610275215735955455
+    second: crashy-foe-atlas_13
+  - first:
+      213: 9092096750197002391
+    second: crashy-foe-atlas_14
+  - first:
+      213: -6415719776414418942
+    second: crashy-foe-atlas_15
+  - first:
+      213: -5375822495749299815
+    second: crashy-foe-atlas_16
+  - first:
+      213: -1661284084178354133
+    second: crashy-foe-atlas_7
+  - first:
+      213: -4692006143561688968
+    second: crashy-foe-atlas_8
+  - first:
+      213: 4643729619246197441
+    second: crashy-foe-atlas_9
+  - first:
+      213: 2843906222444484061
+    second: crashy-foe-atlas_10
+  - first:
+      213: 680996449343625744
+    second: crashy-foe-atlas_11
+  - first:
+      213: -7090233250384493105
+    second: crashy-foe-atlas_12
+  - first:
+      213: -3641071374541580078
+    second: crashy-foe-atlas_13
+  - first:
+      213: 9213468843137592740
+    second: crashy-foe-atlas_14
+  - first:
+      213: 8539522779549814918
+    second: crashy-foe-atlas_15
+  - first:
+      213: 9077784054463065188
+    second: crashy-foe-atlas_16
+  - first:
+      213: -2555282787495423719
+    second: crashy-foe-atlas_17
+  - first:
+      213: 7813486179790488230
+    second: crashy-foe-atlas_18
+  - first:
+      213: 3124968715453849863
+    second: crashy-foe-atlas_19
+  - first:
+      213: -6262633163915960753
+    second: crashy-foe-atlas_20
+  - first:
+      213: 541817120190436492
+    second: crashy-foe-atlas_21
+  - first:
+      213: 4072508731232418316
+    second: crashy-foe-atlas_22
+  - first:
+      213: -7148131834024326314
+    second: crashy-foe-atlas_23
+  - first:
+      213: -6683606732216330444
+    second: crashy-foe-atlas_24
+  - first:
+      213: 8159241816223114286
+    second: crashy-foe-atlas_25
+  - first:
+      213: 2452619785464664055
+    second: crashy-foe-atlas_26
+  - first:
+      213: 4513155869012873906
+    second: crashy-foe-atlas_27
+  - first:
+      213: 2873791708300191746
+    second: crashy-foe-atlas_28
+  - first:
+      213: 8892951898578558536
+    second: crashy-foe-atlas_29
+  - first:
+      213: -2754900524633677141
+    second: crashy-foe-atlas_30
+  - first:
+      213: 7453490765942152274
+    second: crashy-foe-atlas_31
+  - first:
+      213: 3122330213109666238
+    second: crashy-foe-atlas_32
+  - first:
+      213: 7730489948767813678
+    second: crashy-foe-atlas_33
+  - first:
+      213: -4883409622854282863
+    second: crashy-foe-atlas_34
+  - first:
+      213: 5859182369831818745
+    second: crashy-foe-atlas_35
+  - first:
+      213: 4030136310997927797
+    second: crashy-foe-atlas_36
+  - first:
+      213: -6989926211959791289
+    second: crashy-foe-atlas_37
+  - first:
+      213: -3891168354075974224
+    second: crashy-foe-atlas_38
+  - first:
+      213: -8923485112638037513
+    second: crashy-foe-atlas_39
+  - first:
+      213: 5975007483847767840
+    second: crashy-foe-atlas_40
+  - first:
+      213: -4017163721706269787
+    second: crashy-foe-atlas_41
+  - first:
+      213: -2593831272982995009
+    second: crashy-foe-atlas_42
+  - first:
+      213: -81349296407715884
+    second: crashy-foe-atlas_43
+  - first:
+      213: 7389144838744481287
+    second: crashy-foe-atlas_44
+  - first:
+      213: -5025236019367787159
+    second: crashy-foe-atlas_45
+  - first:
+      213: -8246918184113628289
+    second: crashy-foe-atlas_46
+  - first:
+      213: 8616130819521611393
+    second: crashy-foe-atlas_47
+  - first:
+      213: -8205503985532068502
+    second: crashy-foe-atlas_48
+  - first:
+      213: -8781717515580704509
+    second: crashy-foe-atlas_49
+  - first:
+      213: -8005299707128654384
+    second: crashy-foe-atlas_50
+  - first:
+      213: 3525484864911886025
+    second: crashy-foe-atlas_17
+  - first:
+      213: -8911022438683233671
+    second: crashy-foe-atlas_18
+  - first:
+      213: -140850780354206059
+    second: crashy-foe-atlas_19
+  - first:
+      213: -8670648084914512332
+    second: crashy-foe-atlas_20
+  - first:
+      213: 3776240361350650389
+    second: crashy-foe-atlas_21
+  - first:
+      213: 5147128725402464057
+    second: crashy-foe-atlas_22
+  - first:
+      213: 390061974595699374
+    second: crashy-foe-atlas_23
+  - first:
+      213: -6773754692062617102
+    second: crashy-foe-atlas_24
+  - first:
+      213: -3503810525005874406
+    second: crashy-foe-atlas_25
+  - first:
+      213: -2665756123797371104
+    second: crashy-foe-atlas_26
+  - first:
+      213: -7175288643753228642
+    second: crashy-foe-atlas_27
+  - first:
+      213: 8364140064238527508
+    second: crashy-foe-atlas_28
+  - first:
+      213: -7076360822525126189
+    second: crashy-foe-atlas_29
+  - first:
+      213: -2327221037560344973
+    second: crashy-foe-atlas_30
+  - first:
+      213: -206348378051184432
+    second: crashy-foe-atlas_31
+  - first:
+      213: -7672607933147082583
+    second: crashy-foe-atlas_32
+  - first:
+      213: -1186347012547061324
+    second: crashy-foe-atlas_33
+  - first:
+      213: -3165203840441528912
+    second: crashy-foe-atlas_34
+  - first:
+      213: -65533211679751415
+    second: crashy-foe-atlas_35
+  - first:
+      213: 3105129776066401097
+    second: crashy-foe-atlas_36
+  - first:
+      213: -6717378913186055340
+    second: crashy-foe-atlas_37
+  - first:
+      213: 2188728889296261393
+    second: crashy-foe-atlas_38
+  - first:
+      213: 2284760658733551981
+    second: crashy-foe-atlas_39
+  - first:
+      213: -5553320732912402686
+    second: crashy-foe-atlas_40
+  - first:
+      213: 6450315805776606365
+    second: crashy-foe-atlas_41
+  - first:
+      213: -3506173623908050192
+    second: crashy-foe-atlas_42
+  - first:
+      213: -8981349027499975289
+    second: crashy-foe-atlas_43
+  - first:
+      213: 2347967513997938788
+    second: crashy-foe-atlas_44
+  - first:
+      213: 2329477948529337136
+    second: crashy-foe-atlas_48
+  - first:
+      213: -5667126681926906587
+    second: crashy-foe-atlas_51
+  - first:
+      213: -5162358015587229301
+    second: crashy-foe-atlas_52
+  - first:
+      213: -8109743527245987643
+    second: crashy-foe-atlas_53
+  - first:
+      213: -7418742362347643737
+    second: crashy-foe-atlas_54
+  - first:
+      213: 8117997311847982731
+    second: crashy-foe-atlas_45
+  - first:
+      213: 5166882148627670330
+    second: crashy-foe-atlas_46
+  - first:
+      213: -8260957604217031669
+    second: crashy-foe-atlas_47
+  - first:
+      213: -3493587546788513567
+    second: crashy-foe-atlas_49
+  - first:
+      213: 1233893037605313093
+    second: crashy-foe-atlas_50
+  - first:
+      213: -3351611257906371519
+    second: crashy-foe-atlas_51
+  - first:
+      213: 5543644463142641425
+    second: crashy-foe-atlas_52
+  - first:
+      213: -9109916083225905215
+    second: crashy-foe-atlas_53
+  - first:
+      213: 7567571712851178932
+    second: crashy-foe-atlas_54
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: crashy-foe-atlas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 142
+        width: 168
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b740e4819a63110800000000000000
+      internalID: 1240364669240376140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crashy-foe-atlas_1
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 142
+        width: 168
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0006d5a46d9662d10800000000000000
+      internalID: 2100482645306466304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crashy-foe-atlas_4
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 253
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83298c85db5538060800000000000000
+      internalID: 6954496521316897336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crashy-foe-atlas_23
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 37
+        width: 40
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea20a2c9c47c96500800000000000000
+      internalID: 390061974595699374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crashy-foe-atlas_32
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 21
+        width: 40
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a09ceb6cbb658590800000000000000
+      internalID: -7672607933147082583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crashy-foe-atlas_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1119324145def5e10800000000000000
+      internalID: 2188728889296261393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crashy-foe-atlas_39
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61d994c6b915bf10800000000000000
+      internalID: 2284760658733551981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crashy-foe-atlas_41
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94f664dc00248950800000000000000
+      internalID: 6450315805776606365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crashy-foe-atlas_42
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 5
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fadd126aa1975fc0800000000000000
+      internalID: -3506173623908050192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crashy-foe-atlas_43
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 5
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d501c05a6db5380800000000000000
+      internalID: -8981349027499975289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crashy-foe-atlas_44
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 4
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46011009308a59020800000000000000
+      internalID: 2347967513997938788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crashy-foe-atlas_2
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 281
+        width: 26
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4112a3659f92812f0800000000000000
+      internalID: -1002004766219689708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crashy-foe-atlas_3
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 267
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b7166134613e370800000000000000
+      internalID: 8350542611469138743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crashy-foe-atlas_5
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 239
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9e9bf08044aa240800000000000000
+      internalID: 4803726753958324659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crashy-foe-atlas_6
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 225
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de89f602cde1e810800000000000000
+      internalID: 1792975544266624723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crashy-foe-atlas_7
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 211
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b200a836deee1f8e0800000000000000
+      internalID: -1661284084178354133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crashy-foe-atlas_8
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 197
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8781e019545a2eeb0800000000000000
+      internalID: -4692006143561688968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crashy-foe-atlas_9
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 183
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca21243c77d17040800000000000000
+      internalID: 4643729619246197441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crashy-foe-atlas_10
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 169
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5935344a5977720800000000000000
+      internalID: 2843906222444484061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crashy-foe-atlas_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 168
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01add60a9a2637900800000000000000
+      internalID: 680996449343625744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crashy-foe-atlas_12
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 84
+        width: 168
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc54b28ac6e6a9d90800000000000000
+      internalID: -7090233250384493105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crashy-foe-atlas_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 95
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d81b9640e0587dc0800000000000000
+      internalID: -3641071374541580078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crashy-foe-atlas_14
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 53
+        width: 52
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad68580911dcdf70800000000000000
+      internalID: 9213468843137592740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crashy-foe-atlas_15
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 64
+        width: 113
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6805c6249ba728670800000000000000
+      internalID: 8539522779549814918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crashy-foe-atlas_16
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 44
+        width: 114
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ce9f95084cafd70800000000000000
+      internalID: 9077784054463065188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crashy-foe-atlas_17
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 24
+        width: 66
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6c61a4ec90de030800000000000000
+      internalID: 3525484864911886025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crashy-foe-atlas_18
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 11
+        width: 86
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97230ccfd40b55480800000000000000
+      internalID: -8911022438683233671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crashy-foe-atlas_40
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20fb1f65734aee2b0800000000000000
+      internalID: -5553320732912402686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crashy-foe-atlas_19
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 38
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701e5da6d7e1e5b20800000000000000
+      internalID: 3124968715453849863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crashy-foe-atlas_20
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 21
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e553a7158a619a0800000000000000
+      internalID: -6262633163915960753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
