@@ -3,10 +3,10 @@
 public class PlayerControl : MonoBehaviour
 {
     [Header("Managers")]
-    public GameManager gameManager;
+    [SerializeField] private GameManager gameManager;
 
     [Header("Data")]
-    public float jumpForce = 1f;
+    [SerializeField] private float jumpForce = 8f;
 
     private Rigidbody2D body2d;
     private AudioManager audioManager;
@@ -14,15 +14,14 @@ public class PlayerControl : MonoBehaviour
     private void Awake()
     {
         audioManager = FindObjectOfType<AudioManager>();
-        
-    }
-    void Start()
-    {
-        body2d = GetComponent<Rigidbody2D>();
-        
     }
 
-    void Update()
+    private void Start()
+    {
+        body2d = GetComponent<Rigidbody2D>();
+    }
+
+    private void Update()
     {
         if (Input.GetMouseButtonDown(0) && !GameManager.gameIsOver)
         {

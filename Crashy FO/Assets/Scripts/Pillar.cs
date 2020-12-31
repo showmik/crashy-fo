@@ -2,9 +2,9 @@
 
 public class Pillar : MonoBehaviour
 {
-    public float moveSpeed = 1.5f;
+    [SerializeField] private float moveSpeed = 1.5f;
 
-    void Update()
+    private void Update()
     {
         transform.position += Vector3.left * moveSpeed * Time.deltaTime;
     }
@@ -20,5 +20,4 @@ public class Pillar : MonoBehaviour
 
         FindObjectOfType<GameManager>().UpdateScore();
     }
-
 }

@@ -4,24 +4,26 @@ using UnityEngine.UI;
 
 public class MainMenu : MonoBehaviour
 {
-    public SpriteRenderer background;
-    public SpriteRenderer ground;
+    [SerializeField] private SpriteRenderer background;
+    [SerializeField] private SpriteRenderer ground;
 
-    public Sprite dayBackground;
-    public Sprite nightBackground;
-    public Sprite dayGround;
-    public Sprite nightGround;
+    [SerializeField] private Sprite dayBackground;
+    [SerializeField] private Sprite nightBackground;
+    [SerializeField] private Sprite dayGround;
+    [SerializeField] private Sprite nightGround;
 
-    public Image themeBtnImage;
-    public Sprite dayButtonSprite;
-    public Sprite nightButtonSprite;
+    [SerializeField] private Image themeBtnImage;
+    [SerializeField] private Sprite dayButtonSprite;
+    [SerializeField] private Sprite nightButtonSprite;
 
-    public Image soundBtnImage;
-    public Sprite soundOnSprite;
-    public Sprite soundOffSprite;
+    [SerializeField] private Image soundBtnImage;
+    [SerializeField] private Sprite soundOnSprite;
+    [SerializeField] private Sprite soundOffSprite;
 
-    public float maxVolume = 0.7f;
-    private enum ThemeSelect { Night = -1, Day = 1};
+    [SerializeField] private float maxVolume = 0.7f;
+
+    private enum ThemeSelect { Night = -1, Day = 1 };
+
     private int theme;
     private int isPlaying;
 
@@ -63,7 +65,6 @@ public class MainMenu : MonoBehaviour
             }
             soundBtnImage.sprite = soundOffSprite;
         }
-
     }
 
     public void StartGame()
@@ -75,7 +76,7 @@ public class MainMenu : MonoBehaviour
     {
         theme = PlayerPrefs.GetInt("Theme", -1) * -1;
         PlayerPrefs.SetInt("Theme", theme);
-        
+
         if (theme == -1)
         {
             background.sprite = nightBackground;
@@ -115,6 +116,5 @@ public class MainMenu : MonoBehaviour
             soundBtnImage.sprite = soundOnSprite;
             PlayerPrefs.SetInt("isPlaying", 1);
         }
-        
     }
 }

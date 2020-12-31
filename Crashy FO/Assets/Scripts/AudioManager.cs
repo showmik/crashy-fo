@@ -6,7 +6,7 @@ public class AudioManager : MonoBehaviour
     public Sound[] sounds;
     public static AudioManager instance;
 
-    void Awake()
+    private void Awake()
     {
         if (instance == null)
         {
@@ -30,7 +30,7 @@ public class AudioManager : MonoBehaviour
 
         Play("Theme");
     }
-    
+
     public void Play(string name)
     {
         Sound targetedSound = Array.Find(sounds, sound => sound.name == name);

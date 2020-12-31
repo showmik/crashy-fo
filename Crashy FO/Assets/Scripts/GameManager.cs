@@ -1,45 +1,50 @@
-﻿using UnityEngine;
+﻿using TMPro;
+using UnityEngine;
 using UnityEngine.SceneManagement;
-using TMPro;
 
 public class GameManager : MonoBehaviour
 {
     [Header("UI Panels")]
-    public GameObject readyPrompt;
-    public GameObject gameOverPanel;
-    public GameObject scorePanel;
+    [SerializeField] private GameObject readyPrompt;
+
+    [SerializeField] private GameObject gameOverPanel;
+    [SerializeField] private GameObject scorePanel;
 
     [Header("Medals")]
-    public GameObject bronzeMedal;
-    public GameObject silverMedal;
-    public GameObject goldMedal;
-    public GameObject platinumMedal;
+    [SerializeField] private GameObject bronzeMedal;
+
+    [SerializeField] private GameObject silverMedal;
+    [SerializeField] private GameObject goldMedal;
+    [SerializeField] private GameObject platinumMedal;
 
     [Header("Text References")]
-    public TextMeshProUGUI scoreText;
-    public TextMeshProUGUI currentScore;
-    public TextMeshProUGUI bestScore;
+    [SerializeField] private TextMeshProUGUI scoreText;
+
+    [SerializeField] private TextMeshProUGUI currentScore;
+    [SerializeField] private TextMeshProUGUI bestScore;
 
     [Header("Themes")]
-    public SpriteRenderer playerSprite;
-    public Sprite playerDaySprite;
-    public Sprite playerNightSprite;
+    [SerializeField] private SpriteRenderer playerSprite;
 
-    public SpriteRenderer background;
-    public SpriteRenderer ground;
+    [SerializeField] private Sprite playerDaySprite;
+    [SerializeField] private Sprite playerNightSprite;
 
-    public Sprite dayBackground;
-    public Sprite nightBackground;
-    public Sprite dayGround;
-    public Sprite nightGround;
+    [SerializeField] private SpriteRenderer background;
+    [SerializeField] private SpriteRenderer ground;
+
+    [SerializeField] private Sprite dayBackground;
+    [SerializeField] private Sprite nightBackground;
+    [SerializeField] private Sprite dayGround;
+    [SerializeField] private Sprite nightGround;
 
     [Header("Animator")]
-    public Animator playerAnim;
-    public RuntimeAnimatorController dayAnimController;
-    public RuntimeAnimatorController nightAnimController;
+    [SerializeField] private Animator playerAnim;
+
+    [SerializeField] private RuntimeAnimatorController dayAnimController;
+    [SerializeField] private RuntimeAnimatorController nightAnimController;
 
     public static int score = 0;
-    public static int highScore = 0;
+    [SerializeField] private static int highScore = 0;
     public static bool gameIsOver = false;
 
     private void Awake()
@@ -101,17 +106,12 @@ public class GameManager : MonoBehaviour
         {
             silverMedal.SetActive(true);
         }
-        else if (score <= 50 && score > 30)
+        else if (score > 30)
         {
             goldMedal.SetActive(true);
         }
-        else if (score < 50)
-        {
-            platinumMedal.SetActive(true);
-        }
 
         Time.timeScale = 0f;
-        
     }
 
     public void Replay()
