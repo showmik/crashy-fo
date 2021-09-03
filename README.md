@@ -1,4 +1,4 @@
-# 🛸 Crashy FO
+# 🛸 Crashy FO 🛸
 
 **Crashy FO** is a *[Flappy Bird](https://en.wikipedia.org/wiki/Flappy_Bird)* clone where you play as *FO* the UFO instead of *Faby* the bird.
 
